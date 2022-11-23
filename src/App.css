@@ -1,0 +1,11 @@
+
+img {
+    height: 450px;
+    width: 430px;
+    margin-left: 35%;
+    padding-bottom: 20px;
+    border-radius: 2% ;
+}
+* {
+    background-color: rgb(223, 223, 168);
+}
